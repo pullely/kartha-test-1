@@ -1,0 +1,11 @@
+{
+  "reponame": "kartha-test-1",
+  "productname": "kartha-test-1",
+  "productdomain": "kartha-test-1.dev",
+  "apibaseurl": "https://api.kartha-test-1.dev",
+  "subdomain": "rahulvarghesepullely",
+  "orunWorkspace": "ws_TZ3M1G63",
+  "githuborg": "pullely",
+  "epicSlug": "infra-baselining",
+  "domain": false
+}
